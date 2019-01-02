@@ -1,0 +1,17 @@
+- alias: FT Bed Heate Auto On for 30 6am
+  id: soktest
+  trigger:
+    platform: time
+    hours: '/1'
+    minutes: 0
+    seconds: 0
+  condition:
+  - condition: time
+    after: '23:00:00'
+    before: '06:00:00'
+  action:
+  - entity_id: switch.02_brollop
+    service: homeassistant.turn_on
+  - delay: 00:05:00
+  - entity_id: switch.02_brollop
+    service: homeassistant.turn_off	

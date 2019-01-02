@@ -1,0 +1,134 @@
+{
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "2009df4f7448465d957c161a54cc87bd",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        "7e2439520440000c"
+                    ]
+                ],
+                "manufacturer": "IKEA",
+                "model": "E1526",
+                "name": "Gateway",
+                "sw_version": "1.4.15"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "8cf43ed2fc42426886816dd6ca29b047",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65537
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI transformer 10W",
+                "name": "pyssel",
+                "sw_version": "1.2.245"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "31ad1e8502ce420aa5d6c9d9ec81dc94",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65538
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI control outlet",
+                "name": "kobra",
+                "sw_version": "1.4.020"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "b949b736373b44dca3b16abbf9fb5a4b",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65540
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 opal 1000lm",
+                "name": "V\u00e4ggarm",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "802844ffeda34cbcb638cf2fa0699312",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65541
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "spjut",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "3e4502b673d64364bcd3597713022d0f"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "69ebb3d66a8f4e8c835a1b2e06a2b2b8",
+                "identifiers": [
+                    [
+                        "ios",
+                        "FA792415-BF15-4FEE-8C7C-5285F19758C7"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone 8",
+                "name": "Adiels 8",
+                "sw_version": "12.1"
+            },
+            {
+                "config_entries": [
+                    "3e4502b673d64364bcd3597713022d0f"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "16b0ee50f2cb43089255f523753c70ca",
+                "identifiers": [
+                    [
+                        "ios",
+                        "BEB66113-3338-47BC-A663-4297ED4C4EB1"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone 6",
+                "name": "Carros nalle 6 (3)",
+                "sw_version": "12.1"
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}
