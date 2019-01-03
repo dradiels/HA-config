@@ -1,0 +1,19 @@
+group:
+  varme:
+    name: Värme
+    entities:
+      - sensor.LVVP_IN
+      - sensor.LVVP_OUT
+      - sensor.TANK_UPP
+      - sensor.TANK_NER
+      - sensor.Framledning
+      - sensor.Retur
+      - sensor.TANK_VVX
+      - sensor.Ute_vid_badtunna
+      - sensor.Badtunna
+      - sensor.Solfangare
+      - sensor.FILTER_TIME
+      - binary_sensor.Badtunna_uppvarmning
+      - binary_sensor.Badtunne_filter
+      - binary_sensor.Badtunna_vvx
+      - switch.Keep_pool_warm
