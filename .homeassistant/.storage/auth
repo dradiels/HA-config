@@ -7,15 +7,8 @@
                 "data": {
                     "username": "martin"
                 },
-                "id": "264560fb41e34403b13cb330885e3c89",
-                "user_id": "29c6ade62dda4f79acbeb0e5669b2465"
-            },
-            {
-                "auth_provider_id": null,
-                "auth_provider_type": "legacy_api_password",
-                "data": {},
-                "id": "59672fa4c3034917abfb0aa795d42d5b",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
+                "id": "bbbdcaeb66544fcba93c5f282204e546",
+                "user_id": "f8ca64aa50a940ada6bec26577105ac5"
             }
         ],
         "refresh_tokens": [
@@ -24,127 +17,36 @@
                 "client_icon": null,
                 "client_id": "http://adiels.duckdns.org:8123/",
                 "client_name": null,
-                "created_at": "2018-10-21T19:14:20.379152+00:00",
-                "id": "8b9f604a06e5433e974c12b6f794817f",
-                "jwt_key": "358e381d65a7c98f76221e70f75dd62bb08a4f733afdbf159976baf748db18b077b0937c6ad91c09b9fff8765b5e87c5815fb21c745b256e4794f580a6328ac4",
-                "last_used_at": "2018-11-03T12:18:48.162869+00:00",
+                "created_at": "2019-01-03T09:24:20.691029+00:00",
+                "id": "da0704f419794af59964a1f545f2767b",
+                "jwt_key": "5dac860c001361d425cafe5e0e399a8b59ac39fc51570184332281309a3d8a711782429212d801f2319dacd98ab331307a24de4ec3669687fea5da0d90a3dab2",
+                "last_used_at": "2019-01-03T09:24:20.691315+00:00",
                 "last_used_ip": "155.4.127.149",
-                "token": "f6b690e0d834494d708100e011b66c7f374f1a76c909b75f1bb161792eb590153794b11e8c0079721223cd248284870425f7d797af976b65c9836d35c90d7af3",
+                "token": "df5f21cb465c7c422aca1f5570a82436b8b0b24c61e5c6f1226c852b6fa566df2959b9d3ee91e6b2b4fbda8aecd5fa2ea89f3da6bc047601da99428ce9caf775",
                 "token_type": "normal",
-                "user_id": "29c6ade62dda4f79acbeb0e5669b2465"
+                "user_id": "f8ca64aa50a940ada6bec26577105ac5"
             },
             {
                 "access_token_expiration": 1800.0,
                 "client_icon": null,
-                "client_id": "http://adiels.duckdns.org:8123/",
+                "client_id": "http://10.0.198.6:8123/",
                 "client_name": null,
-                "created_at": "2018-10-21T19:12:27.756878+00:00",
-                "id": "fb6d1de249a44e8fa6a00061e6d48eec",
-                "jwt_key": "71e66fac2c6f0218b184df25b13d0998c5d4dcc520985339c62553526ccaa7e17db35c89ae6b67ac0efe389ac69377e42d846e5a4dad1c1d25ba5f3bbc8228f9",
-                "last_used_at": "2018-10-27T13:09:07.160279+00:00",
-                "last_used_ip": "155.4.127.149",
-                "token": "c2ed2cb537085928ba7714d53b4db7be48e4516c50d5a8f9c696bec015b6bd6eb82523fb3a51889ff08552d16182a7eb30ce56b56d9d55c4c1d01e075fa52144",
+                "created_at": "2019-01-03T09:25:26.860546+00:00",
+                "id": "7fbb060ae7ad4e75a55f1564efd968f1",
+                "jwt_key": "5059dfdb58ccf2dc4fd728f73d6f6c7298bd28eeb707eb3831daca23d9773e522489528ee2ad4eddab1ea5584485c31b7eaa12abbc69351b6b9c45f107814be4",
+                "last_used_at": "2019-01-03T09:25:26.860818+00:00",
+                "last_used_ip": "10.0.198.149",
+                "token": "4599666b8fc29eb9f3bab1414c35195591ddc7e4f013a676c4384b4c26a7e37967e64725f4d067d6d458f7842062332ac0f25c0e57ad2966b30cb81526eba5ce",
                 "token_type": "normal",
-                "user_id": "29c6ade62dda4f79acbeb0e5669b2465"
-            },
-            {
-                "access_token_expiration": 1800.0,
-                "client_icon": null,
-                "client_id": "http://adiels.duckdns.org:8123/",
-                "client_name": null,
-                "created_at": "2018-12-08T10:35:15.537033+00:00",
-                "id": "ec9d9ef77f7a4605a57ec62694faabb1",
-                "jwt_key": "ac3ca6932a4d41db64855bada3811b3392de390caea78128b002045eb7d5dd9563340441dddd9f8b4ab803f6593b3b2ce37cd8de79535ba619ebe34eac687be2",
-                "last_used_at": "2019-01-02T10:22:45.110289+00:00",
-                "last_used_ip": "94.191.149.4",
-                "token": "b214b1af9017129e5e3f9959c6adc7f5fab0daff788f5144e5d983a125ee257ae764c2ee5869c8175a67bdbbb44ade810f266b2953832c49b13710e003a42c8e",
-                "token_type": "normal",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
-            },
-            {
-                "access_token_expiration": 1800.0,
-                "client_icon": null,
-                "client_id": "http://adiels.duckdns.org:8123/",
-                "client_name": null,
-                "created_at": "2018-11-04T16:30:19.487777+00:00",
-                "id": "c056a099c31f47fe886e6c03120b050f",
-                "jwt_key": "dee20b2051aae480b91706d5e1855a3382d3b0e028a9ec1063da671cdca26f6a4bec4197f98173b33eebd51b4406473a6feb250dbc1c009c711339ca50d17f4c",
-                "last_used_at": "2019-01-02T11:17:10.816898+00:00",
-                "last_used_ip": "155.4.127.149",
-                "token": "54e2a27ef9900dd8e0dd93dbbf461cbd28a0985812ad149fe217540816f69032326787751c45e52e28fb13cf15fc5737a24a9bb6cb896fe80c3d3480b1cc81f6",
-                "token_type": "normal",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
-            },
-            {
-                "access_token_expiration": 1800.0,
-                "client_icon": null,
-                "client_id": "http://adiels.duckdns.org:8123/",
-                "client_name": null,
-                "created_at": "2018-11-03T15:44:26.423941+00:00",
-                "id": "c8bb12c26014467e885de7468ed01ed9",
-                "jwt_key": "1262583297ecefa3bb94f5a7b913665949542f73272da833a0e0521a646a2bca05a0a86b21639873a4373d8dd54aee07294ade3b0cc1f511c24f6b7984f443ac",
-                "last_used_at": "2018-11-03T15:44:26.428206+00:00",
-                "last_used_ip": "155.4.127.149",
-                "token": "b745186f3ccd45066eb4aac840bbb78f55b970c199146db5d55e49ec21f739d27b4475502050f675b339d3ddd96080bba07a85e835a62d64a83713eb361ac4f7",
-                "token_type": "normal",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
-            },
-            {
-                "access_token_expiration": 1800.0,
-                "client_icon": null,
-                "client_id": "http://hassbian.local:8123/",
-                "client_name": null,
-                "created_at": "2018-11-11T11:10:22.877213+00:00",
-                "id": "a4364eb4dd0b477bb0efb2fd82bdaa43",
-                "jwt_key": "5bc19460786a5fe2dbd54d5ee2ee2c2ed52994da580cf9d3ebca0abbd9a98e3b2481d27688a1cf19df1b421b59b8797f85be502b7a76304600635c934ecf0b22",
-                "last_used_at": "2018-11-11T11:10:22.877696+00:00",
-                "last_used_ip": "10.0.198.80",
-                "token": "e327ac3cc6ccb66a535020628b023037379e6ba2ca36899521244c1b0463c69660f8d80284288e6a0b54ae93c0e1ac1548b820d33ac5b35863f8d1424d0beda7",
-                "token_type": "normal",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
-            },
-            {
-                "access_token_expiration": 1800.0,
-                "client_icon": null,
-                "client_id": "http://hassbian.local:8123/",
-                "client_name": null,
-                "created_at": "2018-11-11T10:57:30.920721+00:00",
-                "id": "4bdebb28fc474f77898e64e828108a39",
-                "jwt_key": "4467cd927700bc1a24c10159bf7bbe6024c1f67d449e79633be5de6d2d282447b3770c40c48e92ac37b9f46766d3490dacdcd668343e0e26baa57e64fd8a3ad0",
-                "last_used_at": "2018-11-11T10:57:30.921000+00:00",
-                "last_used_ip": "10.0.198.80",
-                "token": "4fb3834241c0fd21c809878f45e722ff50a14040c9713f38ecc21d4d93c56901f0d4f857aa8d6cced5301f10c1bd92745990d4d69385b04568edcfde753b230f",
-                "token_type": "normal",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
-            },
-            {
-                "access_token_expiration": 1800.0,
-                "client_icon": null,
-                "client_id": "http://hassbian.local:8123/",
-                "client_name": null,
-                "created_at": "2018-11-11T11:09:37.054580+00:00",
-                "id": "300937320a5749d29c9e487e0ccc81a6",
-                "jwt_key": "7c7c3460e3511bacabca475a7fa61872a7dffb544f4d0eb2b6f76a5992eb668f70f1ecc2784ffe742fda7d17bf6a0ffa3d802b939522b79f1cd01d4e601c8252",
-                "last_used_at": "2018-11-11T11:09:37.055131+00:00",
-                "last_used_ip": "10.0.198.80",
-                "token": "4f6a947ca26763b12bb9f98d967dc712cbbb83d566c0fbca5915a26909a2ae37c13d7c399765f66765a991f7bdfd2e143fe36bf14e1f832c25e55ea782772a00",
-                "token_type": "normal",
-                "user_id": "6afae52c39644aaea2c16f7b5517feaa"
+                "user_id": "f8ca64aa50a940ada6bec26577105ac5"
             }
         ],
         "users": [
             {
-                "id": "29c6ade62dda4f79acbeb0e5669b2465",
+                "id": "f8ca64aa50a940ada6bec26577105ac5",
                 "is_active": true,
                 "is_owner": true,
                 "name": "Martin",
-                "system_generated": false
-            },
-            {
-                "id": "6afae52c39644aaea2c16f7b5517feaa",
-                "is_active": true,
-                "is_owner": false,
-                "name": "Legacy API password user",
                 "system_generated": false
             }
         ]

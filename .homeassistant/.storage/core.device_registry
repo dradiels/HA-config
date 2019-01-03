@@ -107,7 +107,7 @@
                 "manufacturer": "Apple",
                 "model": "iPhone 8",
                 "name": "Adiels 8",
-                "sw_version": "12.1"
+                "sw_version": "12.1.2"
             },
             {
                 "config_entries": [
@@ -125,7 +125,7 @@
                 "manufacturer": "Apple",
                 "model": "iPhone 6",
                 "name": "Carros nalle 6 (3)",
-                "sw_version": "12.1"
+                "sw_version": "12.1.2"
             }
         ]
     },
