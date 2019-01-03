@@ -49,7 +49,7 @@ tradfri:
 visonic:
   device:
     type: usb
-    path: '/dev/bus/usb/001/002'
+    path: '/dev/ttyUSB1'
   motion_off: 120
   language: 'EN'
   force_standard: 'yes'
