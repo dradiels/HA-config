@@ -160,6 +160,14 @@ map:
 # Track the sun
 sun:
 
+logger:
+  default: critical
+  logs:
+    custom_components.visonic: debug
+    custom_components.alarm_control_panel.visonic: debug
+    custom_components.sensor.visonic: debug
+    custom_components.pyvisonic: debug
+
 # influx
 #influxdb:
 #  host: 127.0.0.1
