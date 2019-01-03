@@ -42,6 +42,9 @@ discovery:
 
 ios:
 
+tradfri:
+  host: 10.0.198.4
+  allow_tradfri_groups: true
 # visonic:
 #   device:
 #     type: usb
