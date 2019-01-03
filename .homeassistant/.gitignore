@@ -1,2 +1,8 @@
+*
+!*.yaml
+!*.md
+.storage
+.cloud
 secrets.yaml
 *.db
+*.log
