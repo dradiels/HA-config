@@ -14,6 +14,6 @@
       - sensor.Solfangare
       - sensor.FILTER_TIMER
       - binary_sensor.Badtunna_uppvarmning
-      - binary_sensor.Badtunne_filter
+      - binary_sensor.Badtunna_filter
       - binary_sensor.Badtunna_vvx
       - switch.Keep_pool_warm

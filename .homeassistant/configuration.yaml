@@ -14,7 +14,7 @@ homeassistant:
   customize: !include customize.yaml
 
 # Show links to resources in log and frontend
-introduction:
+#introduction:
 
 # Enables the frontend
 frontend:
@@ -117,7 +117,7 @@ binary_sensor:
     state_topic: 'home/heater/notifiers/VVX/UPDATE_STATUS'
     name: 'Badtunna VVX'
 
-homekit:
+#homekit:
 
 switch:
   - platform: mqtt
