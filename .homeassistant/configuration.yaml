@@ -49,12 +49,12 @@ tradfri:
 visonic:
   device:
     type: usb
-    path: '/dev/ttyUSB0'
+    path: '/dev/ttyUSB1'
   motion_off: 120
   language: 'EN'
   force_standard: 'no'
   sync_time: 'yes'
-  allow_remote_arm: 'no'
+  allow_remote_arm: 'yes'
   allow_remote_disarm: 'no'
   override_code: !secret larm_kod
 
