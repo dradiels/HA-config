@@ -3,8 +3,7 @@
     alias: 'Telegram bot to notify on door open'
     trigger:
       platform: state
-      entity_id: sensor.visonic_z02
-      value_template: '{{ states.sensor.visonic_z02.attributes.device_tripped }}'
+      entity_id: binary_sensor.front_door_open
       from: 'No'
       to: 'Yes'
     action:
