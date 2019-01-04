@@ -1,14 +1,35 @@
 
-  # - id: 'telegram_frontdoor_open'
-  #   alias: 'Telegram bot to notify on door open'
-  #   trigger:
-  #     entity_id: sensor.visonic_z02
-  #     to: 'Yes'
-  #   action:
-  #     service: notify.telegram_test
-  #     data:
-  #       message: Front door open
-  - id: 'telegramboot'
+  - id: 'telegram_frontdoor_open'
+    alias: 'Telegram bot to notify on door open'
+    trigger:
+      platforn: state
+      entity_id: sensor.visonic_z02
+      to: 'Yes'
+    action:
+      service: notify.telegram_test
+      data:
+        message: Front door open
+  - id: 'telegram_alarm_av'
+    alias: 'Telegram bot to notify on disarm'
+    trigger:
+      platforn: state
+      entity_id: alarm_control_panel.visonic_alarm
+      to: 'disarmed'
+    action:
+      service: notify.telegram_test
+      data:
+        message: Avlarmat hemma
+  - id: 'telegram_alarm_pa'
+    alias: 'Telegram bot to notify on armed'
+    trigger:
+      platforn: state
+      entity_id: alarm_control_panel.visonic_alarm
+      to: 'armed'
+    action:
+      service: notify.telegram_test
+      data:
+        message: Larmat hemma  
+  - id: 'telegram_boot'
     alias: 'Telegram bot to notify on boot'
     trigger:
       platform: homeassistant
