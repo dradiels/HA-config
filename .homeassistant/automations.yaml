@@ -2,7 +2,7 @@
   - id: 'telegram_frontdoor_open'
     alias: 'Telegram bot to notify on door open'
     trigger:
-      platforn: state
+      platform: state
       entity_id: sensor.visonic_z02
       to: 'Yes'
     action:
@@ -12,7 +12,7 @@
   - id: 'telegram_alarm_av'
     alias: 'Telegram bot to notify on disarm'
     trigger:
-      platforn: state
+      platform: state
       entity_id: alarm_control_panel.visonic_alarm
       to: 'disarmed'
     action:
@@ -22,13 +22,13 @@
   - id: 'telegram_alarm_pa'
     alias: 'Telegram bot to notify on armed'
     trigger:
-      platforn: state
+      platform: state
       entity_id: alarm_control_panel.visonic_alarm
       to: 'armed'
     action:
       service: notify.telegram_test
       data:
-        message: Larmat hemma  
+        message: Larmat hemma
   - id: 'telegram_boot'
     alias: 'Telegram bot to notify on boot'
     trigger:
