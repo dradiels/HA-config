@@ -4,6 +4,8 @@
     trigger:
       platform: state
       entity_id: sensor.visonic_z02
+      value_template: '{{state.attributes.device_tripped}}'
+      from: 'No'
       to: 'Yes'
     action:
       service: notify.telegram_test
