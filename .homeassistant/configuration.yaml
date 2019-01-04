@@ -132,6 +132,11 @@ sensor:
     unit_of_measurement: min
     value_template: '{{value|round(1) }}'
   - platform: yr
+  - platform: template
+    sensors:
+      front_door_open:
+        friendly_name: 'Front door open'
+        value_template: '{{state_attr('sensor.visonic_z02','device_tripped')}}'
 
 binary_sensor:
   - platform: mqtt
@@ -143,11 +148,6 @@ binary_sensor:
   - platform: mqtt
     state_topic: 'home/heater/notifiers/VVX/UPDATE_STATUS'
     name: 'Badtunna VVX'
-  - platform: template
-    sensors:
-      front_door_open:
-        friendly_name: 'Front door open'
-        value_template: '{{state_attr('sensor.visonic_z02','device_tripped')}}'
 
 #homekit:
 
