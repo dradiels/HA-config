@@ -65,8 +65,8 @@ automation:
         to: 'Yes'
     action:
       - service: notify.telegram_test
-      data:
-        message: Front door open
+        data:
+          message: Front door open
 
 visonic:
   device:
