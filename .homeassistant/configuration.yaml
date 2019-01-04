@@ -57,27 +57,6 @@ notify:
     platform: telegram
     chat_id: 661583528
 
-automation:
-  - id: 'telegram_frontdoor_open'
-    alias: 'Telegram bot to notify on door open'
-    trigger:
-    - entity_id: sensor.visonic_z02
-      to: 'Yes'
-    action:
-    - service: notify.telegram_test
-      data:
-        message: Front door open
-
-  - id: 'telegramboot'
-    alias: 'Telegram bot to notify on boot'
-    trigger:
-    - event: start
-      platform: homeassistant
-    condition: []
-    action:
-    - service: notify.telegram_test
-      data:
-        message: Home Assistant on Pi booted
 
 visonic:
   device:
