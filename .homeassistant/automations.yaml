@@ -1,14 +1,14 @@
 
-  # - id: 'telegram_frontdoor_open'
-  #   alias: 'Telegram bot to notify on door open'
-  #   trigger:
-  #     platform: state
-  #     entity_id: sensor.visonic_z02
-  #     to: 'Yes'
-  #   action:
-  #     service: notify.telegram_test
-  #     data:
-  #       message: Front door open
+  - id: 'telegram_frontdoor_open'
+    alias: 'Telegram bot to notify on door open'
+    trigger:
+      platform: state
+      entity_id: sensor.visonic_z02
+      to: 'Yes'
+    action:
+      service: notify.telegram_test
+      data:
+        message: Front door open
   - id: 'telegram_alarm_av'
     alias: 'Telegram bot to notify on disarm'
     trigger:
