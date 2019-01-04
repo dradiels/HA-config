@@ -46,6 +46,28 @@ tradfri:
   host: 10.0.198.4
   allow_tradfri_groups: true
 
+telegram_bot:
+  - platform: polling
+    api_key: 775072004:AAGMK8wlULEeB43rPHHDmLL0lglrx20vM
+    allowed_chat_ids:
+      - 661583528
+
+notify:
+  - name: telegram_test
+    platform: telegram
+    chat_id: 661583528
+
+automation:
+  - id: 'telegram_frontdoor_open'
+    alias: 'Telegram bot to notify on door open'
+    trigger:
+      - entity_id: sensor.visonic_z02
+        to: 'Yes'
+    action:
+      - service: notify.telegram_test
+      data:
+        message: Front door open
+
 visonic:
   device:
     type: usb
