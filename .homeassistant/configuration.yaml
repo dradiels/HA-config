@@ -48,7 +48,7 @@ tradfri:
 
 telegram_bot:
   - platform: polling
-    api_key: 775072004:AAGMK8wlULEeB43rPHHDmLL0lglrx20vM
+    api_key: 775072004:AAGMK8wlUeULEeB43rPHHDmLL0lglrx20vM
     allowed_chat_ids:
       - 661583528
 
