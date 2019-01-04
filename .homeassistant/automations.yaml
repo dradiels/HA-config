@@ -24,7 +24,7 @@
     trigger:
       platform: state
       entity_id: alarm_control_panel.visonic_alarm
-      to: 'armed'
+      to: 'armed_away'
     action:
       service: notify.telegram_test
       data:
