@@ -136,7 +136,7 @@ sensor:
     sensors:
       front_door_open:
         friendly_name: "Front door open"
-        value_template: "{{ state_attr('sensor.visonic_z02','device_tripped') }}"
+        value_template: "{{ state_attr('sensor.visonic_z02', 'device_tripped') }}"
 
 binary_sensor:
   - platform: mqtt
