@@ -144,6 +144,357 @@
                 "name": null,
                 "platform": "ios",
                 "unique_id": "state_carros_nalle_6_3"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "alarm_control_panel.visonic_alarm",
+                "name": null,
+                "platform": "visonic",
+                "unique_id": "Visonic Alarm_1"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.visonic_alarm_panel",
+                "name": null,
+                "platform": "visonic",
+                "unique_id": "Visonic_Partition_1"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "3d4870170c16486ebf0486c7678a1542",
+                "disabled_by": null,
+                "entity_id": "light.klasen",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65550"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "05b6bd458faa46d790d8f2ca7d7e5d8f",
+                "disabled_by": null,
+                "entity_id": "light.kort",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65548"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "86ad2021365942a8ab7c4e4dc61f44b8",
+                "disabled_by": null,
+                "entity_id": "light.klimt",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65551"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "9a3c8d350a824e0aa8cda3ea028b62cc",
+                "disabled_by": null,
+                "entity_id": "light.lonn",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65545"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "bac00abb91c04754bceb8b847a41b97f",
+                "disabled_by": null,
+                "entity_id": "light.hearts",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65547"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "568cc63f407949a4b0a176ff5d94cfa0",
+                "disabled_by": null,
+                "entity_id": "light.brollop",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65544"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "15129d45489340e489c41610689813a4",
+                "disabled_by": null,
+                "entity_id": "light.paron",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65546"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "8cf60bcee218423e9a8119d8d4dfee19",
+                "disabled_by": null,
+                "entity_id": "light.champion",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65549"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "31929e0f07224b418d3a30792280cd8d",
+                "disabled_by": null,
+                "entity_id": "light.alex_2",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65542"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "d47313c77346407cb2aa6467849bb30d",
+                "disabled_by": null,
+                "entity_id": "light.doskalle",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65552"
+            },
+            {
+                "config_entry_id": "be0e312f6ffd4affa7c834bd78c53aa9",
+                "device_id": "5fb0a0c70ed04468bc350ac16e366a54",
+                "disabled_by": null,
+                "entity_id": "light.alex_1",
+                "name": null,
+                "platform": "tradfri",
+                "unique_id": "light-7e2439520440000c-65543"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.moc_tv_3",
+                "name": null,
+                "platform": "apple_tv",
+                "unique_id": "ad5312320f7d268268e0eab0e339f165a70914c0127c7408ae5f28212a39da56"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "remote.moc_tv_3",
+                "name": null,
+                "platform": "apple_tv",
+                "unique_id": "ad5312320f7d268268e0eab0e339f165a70914c0127c7408ae5f28212a39da56"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.02_brollop",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304756"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.9_pantella",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "207967"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.ute_temperature",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "_1512167950-temp"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.10_jul_finrum",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "207965"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.badtunna_temperature",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "_13689523-temp"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.6_poolpump",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304767"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.8_svamp",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304765"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.pool",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "1791523"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.uterum_temperature",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "_1512167948-temp"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.uterum_humidity",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "_1512167948-humidity"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.4_poolvarme",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304760"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.kok_taklampa",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "220631"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "light.3_dimmer",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304759"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.hall_varm",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "1791525"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.01_martinelli",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304757"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.uterum",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "212389"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.5_arbetsrum",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304764"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.entre_yttre",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "221957"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.7_jul_vardagsrum",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "304766"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.varm_upp",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "1792403"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.badrum_nere",
+                "name": null,
+                "platform": "tellduslive",
+                "unique_id": "268741"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.visonic_z01",
+                "name": null,
+                "platform": "visonic",
+                "unique_id": "visonic_z01"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.visonic_z03",
+                "name": null,
+                "platform": "visonic",
+                "unique_id": "visonic_z03"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.visonic_z02",
+                "name": null,
+                "platform": "visonic",
+                "unique_id": "visonic_z02"
             }
         ]
     },

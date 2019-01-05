@@ -136,10 +136,10 @@ sensor:
     sensors:
       front_door_open:
         friendly_name: "Front door"
-        value_template: "{{ state_attr('sensor.visonic_z01', 'device_tripped') }}"
+        value_template: "{{ state_attr('sensor.visonic_z02', 'device_tripped') }}"
       conservatory_activity:
         friendly_name: "Conservatory"
-        value_template: "{{ state_attr('sensor.visonic_z02', 'device_tripped') }}"
+        value_template: "{{ state_attr('sensor.visonic_z01', 'device_tripped') }}"
       basement_activity:
         friendly_name: "Basement"
         value_template: "{{ state_attr('sensor.visonic_z03', 'device_tripped') }}"

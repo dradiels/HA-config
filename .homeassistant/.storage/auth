@@ -7,46 +7,76 @@
                 "data": {
                     "username": "martin"
                 },
-                "id": "bbbdcaeb66544fcba93c5f282204e546",
-                "user_id": "f8ca64aa50a940ada6bec26577105ac5"
+                "id": "a249dfe18bfa4832be86e5e7088fc5eb",
+                "user_id": "83be4899d7aa4978893cc7b65894d38c"
+            },
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "legacy_api_password",
+                "data": {},
+                "id": "76c9d638bb0049daa22d1c225e88b187",
+                "user_id": "a5550a161d064cf8bf9e3961fc21fedb"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
             }
         ],
         "refresh_tokens": [
             {
                 "access_token_expiration": 1800.0,
                 "client_icon": null,
-                "client_id": "http://10.0.198.6:8123/",
+                "client_id": "http://adiels.duckdns.org:8123/",
                 "client_name": null,
-                "created_at": "2019-01-03T09:25:26.860546+00:00",
-                "id": "7fbb060ae7ad4e75a55f1564efd968f1",
-                "jwt_key": "5059dfdb58ccf2dc4fd728f73d6f6c7298bd28eeb707eb3831daca23d9773e522489528ee2ad4eddab1ea5584485c31b7eaa12abbc69351b6b9c45f107814be4",
-                "last_used_at": "2019-01-03T11:45:53.376876+00:00",
-                "last_used_ip": "10.0.198.149",
-                "token": "4599666b8fc29eb9f3bab1414c35195591ddc7e4f013a676c4384b4c26a7e37967e64725f4d067d6d458f7842062332ac0f25c0e57ad2966b30cb81526eba5ce",
+                "created_at": "2019-01-04T22:18:30.951152+00:00",
+                "id": "39e6aefb33a24c12a0bd170e5aeccaff",
+                "jwt_key": "e7e60eea372aac1ade2f17c0bc41278d96a49e84b8d998bbded5bbebae7dd757c60179797d499f4ed37e58771a1ff0dcd032e35f9d9f603190e27ae89ee9e22b",
+                "last_used_at": "2019-01-05T09:46:40.870479+00:00",
+                "last_used_ip": "94.191.156.54",
+                "token": "8c4403c045c9b102211866a6514b0f18b89475822b31e42708f0c8d8c8cd584e1c57e3d921db92c12f53023fee03ea355f3eb7f0f41874fe1354c851b3bd8389",
                 "token_type": "normal",
-                "user_id": "f8ca64aa50a940ada6bec26577105ac5"
+                "user_id": "83be4899d7aa4978893cc7b65894d38c"
             },
             {
                 "access_token_expiration": 1800.0,
                 "client_icon": null,
-                "client_id": "http://adiels.duckdns.org:8123/",
+                "client_id": "http://10.0.198.6:8123/",
                 "client_name": null,
-                "created_at": "2019-01-03T09:24:20.691029+00:00",
-                "id": "da0704f419794af59964a1f545f2767b",
-                "jwt_key": "5dac860c001361d425cafe5e0e399a8b59ac39fc51570184332281309a3d8a711782429212d801f2319dacd98ab331307a24de4ec3669687fea5da0d90a3dab2",
-                "last_used_at": "2019-01-03T09:56:41.749040+00:00",
-                "last_used_ip": "155.4.127.149",
-                "token": "df5f21cb465c7c422aca1f5570a82436b8b0b24c61e5c6f1226c852b6fa566df2959b9d3ee91e6b2b4fbda8aecd5fa2ea89f3da6bc047601da99428ce9caf775",
+                "created_at": "2019-01-04T22:18:02.166693+00:00",
+                "id": "ad9a55fae1074302bfd579dc8f95b49c",
+                "jwt_key": "f4be1108e1fad607f954193212e32e40d91946106a046b3eebc51b79fd75c8882a7f80c28be1fd7becd15f787b8ef95868e2afca08cffe98066dc2a4994d618f",
+                "last_used_at": "2019-01-05T10:06:06.324475+00:00",
+                "last_used_ip": "10.0.198.149",
+                "token": "ae016058fb27c66e0724d2b0311d1fc2e4b91f86f3437c814f6cbb3c0559c1e1ca961484b8622ec7e65e639f9922a8adf4560325c8e7afc23e7cbc37a13a98af",
                 "token_type": "normal",
-                "user_id": "f8ca64aa50a940ada6bec26577105ac5"
+                "user_id": "83be4899d7aa4978893cc7b65894d38c"
             }
         ],
         "users": [
             {
-                "id": "f8ca64aa50a940ada6bec26577105ac5",
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "83be4899d7aa4978893cc7b65894d38c",
                 "is_active": true,
                 "is_owner": true,
                 "name": "Martin",
+                "system_generated": false
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "a5550a161d064cf8bf9e3961fc21fedb",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Legacy API password user",
                 "system_generated": false
             }
         ]

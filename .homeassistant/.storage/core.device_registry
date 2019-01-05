@@ -88,7 +88,7 @@
                 ],
                 "manufacturer": "IKEA of Sweden",
                 "model": "TRADFRI bulb GU10 W 400lm",
-                "name": "spjut",
+                "name": "\u00c4pple",
                 "sw_version": "1.2.214"
             },
             {
@@ -126,6 +126,204 @@
                 "model": "iPhone 6",
                 "name": "Carros nalle 6 (3)",
                 "sw_version": "12.1.2"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "3d4870170c16486ebf0486c7678a1542",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65550
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Klasen",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "05b6bd458faa46d790d8f2ca7d7e5d8f",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65548
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Kort",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "86ad2021365942a8ab7c4e4dc61f44b8",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65551
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Klimt",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "9a3c8d350a824e0aa8cda3ea028b62cc",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65545
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "L\u00f6nn",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "bac00abb91c04754bceb8b847a41b97f",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65547
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Hearts",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "568cc63f407949a4b0a176ff5d94cfa0",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65544
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Br\u00f6llop",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "15129d45489340e489c41610689813a4",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65546
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "P\u00e4ron",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "8cf60bcee218423e9a8119d8d4dfee19",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65549
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Champion",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "31929e0f07224b418d3a30792280cd8d",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65542
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Alex 2",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "d47313c77346407cb2aa6467849bb30d",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65552
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "D\u00f6skalle",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "be0e312f6ffd4affa7c834bd78c53aa9"
+                ],
+                "connections": [],
+                "hub_device_id": "2009df4f7448465d957c161a54cc87bd",
+                "id": "5fb0a0c70ed04468bc350ac16e366a54",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65543
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb GU10 W 400lm",
+                "name": "Alex 1",
+                "sw_version": "1.2.214"
             }
         ]
     },
